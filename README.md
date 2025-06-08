@@ -39,5 +39,5 @@ house-price-app/
 ## 🧑‍💻 Developer
 
 **Built with vision by:**
-👑 **Saurahb Rajendra**
+👑 **Saurabh Rajendra**
 🔗 GitHub: [Saurabh Rajendra](https://github.com/SaurabhRajendra7584)
